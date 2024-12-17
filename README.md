@@ -9,5 +9,5 @@ Downloaded from [Pro Football Reference](https://www.pro-football-reference.com/
 TBD
 
 ## Limitations
-* Due to time constraints of scraping, previous seasons were not considered when training model
+* Due to time constraints of scraping, previous seasons were not considered when training model (originally planned to include 2016-2024 seasons)
     * Likely resulting in an undertrained model
