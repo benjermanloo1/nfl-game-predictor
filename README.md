@@ -1,10 +1,13 @@
-# Overview
+## Overview
+Small-scale NFL game predictor.
 
-# Data
-Downloaded from [Pro Football Reference]([url](https://www.pro-football-reference.com/))
-Collected from the 2024 NFL Season (up to week 15 EXCLUDING 12/16 games)
+## Data
+Downloaded from [Pro Football Reference](https://www.pro-football-reference.com/)  
+* Collected from the 2024 NFL Season (up to week 15 EXCLUDING 12/16 games)
 
-# Findings
+## Findings
+TBD
 
-# Limitations
-* Due to time constraints of scraping 
+## Limitations
+* Due to time constraints of scraping, previous seasons were not considered when training model
+    * Likely resulting in an undertrained model
