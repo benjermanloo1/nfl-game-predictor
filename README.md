@@ -3,7 +3,7 @@ Small-scale NFL game predictor.
 
 ## Data
 Downloaded from [Pro Football Reference](https://www.pro-football-reference.com/)  
-* Collected from the 2024 NFL Season (up to week 15 EXCLUDING 12/16 games)
+* Collected from the 2024 NFL Season (up to week 14)
 
 ## Findings
 TBD
