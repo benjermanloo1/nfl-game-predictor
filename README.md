@@ -11,8 +11,43 @@ Downloaded from [Pro Football Reference](https://www.pro-football-reference.com/
 * Collected from the 2024 NFL season (up to TNF for week 15, 12/15 games onwards not included)
 
 ## Findings
-TBD
+Week 17:
+* KAN < PIT
+* BAL > HOU
+* SEA > CHI
+* LAC > NWE
+* DEN < CIN
+* ARI > LAR
+* CAR > TAM
+* NYJ > BUF
+* IND < NYG
+* GNB < MIN
+* LVR > NOR
+* TEN > JAX
+* MIA > CLE
+* DAL < PHI
+* ATL > WAS
+* DET > SFO
+
+Week 18:
+* CLE < BAL
+* LAC < LVR
+* CIN > PIT
+* SFO < ARI
+* CAR > ATL
+* KAN > DEN
+* SEA < LAR
+* HOU < TEN
+* NYG < PHI
+* JAX < IND
+* MIN > DET
+* WAS > DAL
+* CHI < GNB
+* MIA < NYJ
+* NOR > TAM
+* BUF > NWE
 
 ## Limitations
 * Due to time constraints of scraping, previous seasons were not considered when training model (originally planned to include 2016-2024 seasons)
     * Likely resulting in an undertrained model
+* THIS IS VERY CHOPPED.
