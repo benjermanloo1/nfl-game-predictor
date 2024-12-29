@@ -12,11 +12,11 @@ Downloaded from [Pro Football Reference](https://www.pro-football-reference.com/
 
 ## Findings
 Week 17:
-* KAN < PIT
-* BAL > HOU
-* SEA > CHI
-* LAC > NWE
-* DEN < CIN
+* KAN > PIT (correct)
+* BAL > HOU (correct)
+* SEA > CHI (correct)
+* LAC > NWE (correct)
+* DEN < CIN (correct)
 * ARI > LAR
 * CAR > TAM
 * NYJ > BUF
