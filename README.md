@@ -1,7 +1,7 @@
 ## Overview
 Small-scale NFL game predictor.  
 
-Retrieved data from the 2024 NFL season and trained a machine learning model to predict the outcomes of games for the remainder of the season.
+Retrieved data from the 2024 NFL season and trained a machine learning model to predict the outcomes of games for the remainder of the regular season.
 * Utilized Selenium WebDriver to automate the scraping of scores and advanced statistics from Pro Football Reference.
 * Processed raw HTML with BeautifulSoup, removing unnecessary elements for easier parsing
 * Consolidated individual box scores into a unified pandas DataFrame, ensuring the dataset is in a format suitable for machine learning or statistical analysis.
@@ -17,35 +17,39 @@ Week 17:
 * SEA > CHI (correct)
 * LAC > NWE (correct)
 * DEN < CIN (correct)
-* ARI > LAR
-* CAR > TAM
-* NYJ > BUF
-* IND < NYG
-* GNB < MIN
-* LVR > NOR
-* TEN > JAX
-* MIA > CLE
-* DAL < PHI
-* ATL > WAS
-* DET > SFO
+* ARI > LAR (incorrect)
+* CAR > TAM (incorrect)
+* NYJ > BUF (incorrect)
+* IND < NYG (correct)
+* GNB < MIN (correct)
+* LVR > NOR (correct)
+* TEN > JAX (incorrect)
+* MIA > CLE (correct)
+* DAL < PHI (correct)
+* ATL > WAS (incorrect)
+* DET > SFO (correct)
+Total: 11/16 (68.75%)
 
 Week 18:
-* CLE < BAL
-* LAC < LVR
-* CIN > PIT
-* SFO < ARI
-* CAR > ATL
-* KAN > DEN
-* SEA < LAR
-* HOU < TEN
-* NYG < PHI
-* JAX < IND
-* MIN > DET
-* WAS > DAL
-* CHI < GNB
-* MIA < NYJ
-* NOR > TAM
-* BUF > NWE
+* CLE < BAL (correct)
+* LAC < LVR ()
+* CIN > PIT (correct)
+* SFO < ARI ()
+* CAR > ATL ()
+* KAN > DEN ()
+* SEA < LAR ()
+* HOU < TEN ()
+* NYG < PHI ()
+* JAX < IND ()
+* MIN > DET ()
+* WAS > DAL ()
+* CHI < GNB ()
+* MIA < NYJ ()
+* NOR > TAM ()
+* BUF > NWE ()
+Total: /16 (%)
+
+Overall: /32 (%)
 
 ## Limitations
 * Due to time constraints of scraping, previous seasons were not considered when training model (originally planned to include 2016-2024 seasons)
