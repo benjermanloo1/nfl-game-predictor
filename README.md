@@ -27,7 +27,7 @@ Week 17:
 * MIA > CLE (correct)
 * DAL < PHI (correct)
 * ATL > WAS (incorrect)
-* DET > SFO (correct) 
+* DET > SFO (correct)  
 Total: 11/16 (68.75%)
 
 Week 18:
@@ -46,7 +46,7 @@ Week 18:
 * CHI < GNB (incorrect)
 * MIA < NYJ ()
 * NOR > TAM (incorrect)
-* BUF > NWE (incorrect) 
+* BUF > NWE (incorrect)  
 Total: /16 (%)
 
 Overall: /32 (%)
