@@ -33,11 +33,11 @@ Week 17:
 
 Week 18:
 * CLE < BAL (correct)
-* LAC < LVR ()
+* LAC < LVR (incorrect)
 * CIN > PIT (correct)
 * SFO < ARI ()
 * CAR > ATL (correct)
-* KAN > DEN ()
+* KAN > DEN (incorrect)
 * SEA < LAR ()
 * HOU < TEN (incorrect)
 * NYG < PHI (correct)
