@@ -27,8 +27,9 @@ Week 17:
 * MIA > CLE (correct)
 * DAL < PHI (correct)
 * ATL > WAS (incorrect)
-* DET > SFO (correct)  
-Total: 11/16 (68.75%)
+* DET > SFO (correct)
+ 
+*Total: 11/16 (68.75%)*
 
 Week 18:
 * CLE < BAL (correct)
@@ -46,10 +47,11 @@ Week 18:
 * CHI < GNB (incorrect)
 * MIA < NYJ ()
 * NOR > TAM (incorrect)
-* BUF > NWE (incorrect)  
-Total: /16 (%)
+* BUF > NWE (incorrect)
 
-Overall: /32 (%)
+*Total: /16 (%)*
+
+**Overall: /32 (%)**
 
 ## Limitations
 * Due to time constraints of scraping, previous seasons were not considered when training model (originally planned to include 2016-2024 seasons)
