@@ -42,16 +42,16 @@ Week 18:
 * HOU < TEN (incorrect)
 * NYG < PHI (correct)
 * JAX < IND (correct)
-* MIN > DET ()
+* MIN > DET (incorrect)
 * WAS > DAL (correct)
 * CHI < GNB (incorrect)
 * MIA < NYJ (correct)
 * NOR > TAM (incorrect)
 * BUF > NWE (incorrect)
 
-*Total: /16 (%)*
+*Total: 8/16 (50%)*
 
-**Overall: /32 (%)**
+**Overall: 19/32 (59.38%)**
 
 ## Limitations
 * Due to time constraints of scraping, previous seasons were not considered when training model (originally planned to include 2016-2024 seasons)
