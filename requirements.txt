@@ -1,0 +1,11 @@
+# Data
+pandas
+numpy
+nflreadpy
+
+# Modeling (predict.ipynb)
+scikit-learn
+
+# Jupyter
+jupyterlab
+ipykernel
