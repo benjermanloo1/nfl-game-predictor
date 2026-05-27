@@ -1,7 +1,7 @@
 import nflreadpy as nfl
 import pandas
 
-YEARS = list(range(2020, 2026))
+YEARS = list(range(2006, 2026))
 
 team_stats = nfl.load_team_stats(YEARS)
 team_stats = team_stats.to_pandas()
