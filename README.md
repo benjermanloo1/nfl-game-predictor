@@ -17,6 +17,7 @@ Pulled via [`nflreadpy`](https://pypi.org/project/nflreadpy/)
 | Notebook | Description |
 |---|---|
 | `01_process_data.ipynb` | Merges raw team stats and schedule CSVs, mirrors opponent stats, filters to regular-season games |
+| `02_upcoming_games.ipynb` | Builds feature rows for 2026 matchups using rolling averages from prior seasons |
 | `03_predict.ipynb` | Computes rolling features, tunes regularization, runs SFS, cross-season backtest, trains final model, and outputs predictions |
 
 ## Model
@@ -32,9 +33,7 @@ Pulled via [`nflreadpy`](https://pypi.org/project/nflreadpy/)
 | 2025 | 61.0% |
 | **Mean (2007–2025)** | **58.2%** |
 
-Accuracy is in line with industry-standard NFL prediction benchmarks (~55–65%). The earlier inflated figures resulted from the model being trained on actual in-game stats rather than pre-game averages.
+Accuracy is in line with industry-standard NFL prediction benchmarks (~55–65%).
 
 ## Outputs
-All outputs saved to `data/processed/`:
-* `matchup_predictions.csv` — predicted winner for all 272 regular season matchups
-* `team_predicted_records.csv` — aggregated predicted wins/losses per team, sorted by wins
+WILL BE UPDATED
