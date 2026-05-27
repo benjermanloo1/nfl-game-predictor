@@ -1,6 +1,7 @@
 # Data
 pandas
 numpy
+pyarrow
 nflreadpy
 
 # Modeling (predict.ipynb)
