@@ -9,7 +9,7 @@ NFL game outcome predictor trained on twenty seasons of data (2006–2025) to fo
 
 ## Data
 Pulled via [`nflreadpy`](https://pypi.org/project/nflreadpy/)
-* Training data: 2006–2025 NFL regular seasons (~9,100 team-game rows after rolling window filter)
+* Training data: 2006–2025 NFL regular seasons (~9,100 team-game rows)
 * Prediction targets: 2026 NFL regular season (weeks 1–18, 272 matchups)
 
 ## Pipeline
